@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hoangminhtran94
-- 👀 I’m interested in programming
+- 👀 I’m interested in Fullstack development
 - 🌱 I’m currently learning Computer programming at Algonquin College
 - 📫 How to reach me : Linkedin: https://www.linkedin.com/in/tran0450/ 
 
