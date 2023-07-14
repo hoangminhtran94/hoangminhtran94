@@ -5,7 +5,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hoangminhtran94&ring=4F1FEB&currStreakLabel=4F1FEB)](https://git.io/streak-stats)
 <br>
 <br>
-![Minh Hoang Tran's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangminhtran94&show_icons=true&rank_icon=github&hide=stars)
+![Minh Hoang Tran's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangminhtran94&show_icons=true&rank_icon=github&hide=stars&theme=transparent)
 <br>
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,php,laravel,express,firebase,figma,cs,java,html,css,docker,dotnet,graphql,mongodb,mysql,nestjs,netlify,nextjs,nodejs,postgres,prisma,remix,sqlite,svelte,tailwind,angular,kubernetes,spring,django,py,deno,flutter)](https://skillicons.dev)
