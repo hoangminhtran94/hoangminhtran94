@@ -2,7 +2,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangminhtran94&layout=donut&langs_count=10&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hoangminhtran94&ring=4F1FEB&currStreakLabel=4F1FEB)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hoangminhtran94&ring=4F1FEB&currStreakLabel=4F1FEB&theme=transparent)](https://git.io/streak-stats)
 <br>
 <br>
 ![Minh Hoang Tran's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangminhtran94&show_icons=true&rank_icon=github&hide=stars&theme=transparent)
