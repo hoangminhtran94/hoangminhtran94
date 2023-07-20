@@ -20,7 +20,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/hoangminhtran94/hoangminhtran94/blob/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://github.com/hoangminhtran94/hoangminhtran94/blob/output/github-contribution-grid-snake.svg">
 </picture>
+<br>
+<br>
 
-<br>
-<br>
 ![](https://komarev.com/ghpvc/?username=hoangminhtran94&style=flat-square)
