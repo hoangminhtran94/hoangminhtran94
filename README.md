@@ -1,5 +1,7 @@
 ## Stats
 ![](https://komarev.com/ghpvc/?username=hoangminhtran94&style=flat-square)
+<br>
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangminhtran94&layout=donut&langs_count=10&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
