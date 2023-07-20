@@ -1,8 +1,6 @@
 ## Stats
 
 ![](https://komarev.com/ghpvc/?username=hoangminhtran94&style=flat-square)
-<br>
-<br>
 
 <div id="image-table">
     <table>
@@ -12,6 +10,7 @@
       	    </td>
             <td style="padding:10px">
             	<img src="https://streak-stats.demolab.com/?user=hoangminhtran94&ring=4F1FEB&currStreakLabel=4F1FEB&theme=transparent"/>
+                <img src="https://github-readme-stats.vercel.app/api?username=hoangminhtran94&show_icons=true&rank_icon=github&hide=stars&theme=transparent"/>
             </td>
         </tr>
     </table>
