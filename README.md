@@ -1,4 +1,7 @@
 ## Stats
+![](https://komarev.com/ghpvc/?username=hoangminhtran94&style=flat-square)
+<br>
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangminhtran94&layout=donut&langs_count=10&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
@@ -15,12 +18,8 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,php,laravel,express,firebase,figma,cs,java,html,css,docker,dotnet,graphql,mongodb,mysql,nestjs,netlify,nextjs,nodejs,postgres,prisma,remix,sqlite,svelte,tailwind,angular,kubernetes,spring,django,py,deno,flutter)](https://skillicons.dev)
 <br>
 <br>
-![](https://komarev.com/ghpvc/?username=hoangminhtran94&style=flat-square)
-
-
-<br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hoangminhtran94/hoangminhtran94/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/hoangminhtran94/hoangminhtran94/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/hoangminhtran94/hoangminhtran94/blob/output/github-contribution-grid-snake.svg">
 </picture>
