@@ -11,4 +11,11 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,php,laravel,express,firebase,figma,cs,java,html,css,docker,dotnet,graphql,mongodb,mysql,nestjs,netlify,nextjs,nodejs,postgres,prisma,remix,sqlite,svelte,tailwind,angular,kubernetes,spring,django,py,deno,flutter)](https://skillicons.dev)
 <br>
 <br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+<br>
+<br>
 ![](https://komarev.com/ghpvc/?username=hoangminhtran94&style=flat-square)
