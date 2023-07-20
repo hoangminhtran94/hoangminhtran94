@@ -2,18 +2,12 @@
 
 ![](https://komarev.com/ghpvc/?username=hoangminhtran94&style=flat-square)
 
-<div id="image-table">
-    <table>
-	    <tr>
-    	    <td style="padding:10px">
-        	    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangminhtran94&layout=donut&langs_count=10&theme=transparent"/>
-      	    </td>
-            <td style="padding:10px">
-            	<img src="https://streak-stats.demolab.com/?user=hoangminhtran94&ring=4F1FEB&currStreakLabel=4F1FEB&theme=transparent"/>
-                <img src="https://github-readme-stats.vercel.app/api?username=hoangminhtran94&show_icons=true&rank_icon=github&hide=stars&theme=transparent"/>
-            </td>
-        </tr>
-    </table>
+<div align="center">
+  <br/>
+  <a href="https://github.com/hoangminhtran94/hoangminhtran94/blob/master/svg-with-css.svg">
+    <img alt="Click to see the source" height="400" src="svg-with-css.svg" width="800" />
+  </a>
+  <br/>
 </div>
 <br>
 <br>

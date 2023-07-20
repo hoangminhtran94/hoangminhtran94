@@ -1,0 +1,40 @@
+<svg
+  fill="none"
+  viewBox="0 0 800 800"
+  width="800"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        gap: 2rem;
+        }
+        .first-container {
+        flex: 1 1 0;
+        }
+        .second-container {
+        flex: 1 1 0;
+        }
+      </style>
+      <div class="container">
+        <div class="first-container">
+          <img
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangminhtran94&layout=donut&langs_count=10&theme=transparent"
+          />
+        </div>
+        <div class="second-container">
+          <img
+            src="https://streak-stats.demolab.com/?user=hoangminhtran94&ring=4F1FEB&currStreakLabel=4F1FEB&theme=transparent"
+          />
+          <img
+            src="https://github-readme-stats.vercel.app/api?username=hoangminhtran94&show_icons=true&rank_icon=github&hide=stars&theme=transparent"
+          />
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
