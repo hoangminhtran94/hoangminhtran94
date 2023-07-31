@@ -11,7 +11,7 @@
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,php,laravel,express,firebase,figma,cs,java,html,css,docker,dotnet,graphql,mongodb,mysql,nestjs,netlify,nextjs,nodejs,postgres,prisma,remix,sqlite,svelte,tailwind,angular,kubernetes,spring,django,py,deno,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,php,laravel,express,firebase,figma,cs,java,html,css,docker,dotnet,graphql,mongodb,mysql,nestjs,netlify,nextjs,nodejs,postgres,prisma,remix,sqlite,svelte,tailwind,angular,kubernetes,spring,django,py,deno,flutter,go)](https://skillicons.dev)
 <br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hoangminhtran94/hoangminhtran94/blob/output/github-contribution-grid-snake-dark.svg">
