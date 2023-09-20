@@ -19,5 +19,5 @@
   <img alt="github contribution grid snake animation" src="https://github.com/hoangminhtran94/hoangminhtran94/blob/output/github-contribution-grid-snake.svg">
 </picture>
 <br>
- ![](https://komarev.com/ghpvc/?username=hoangminhtran94&style=flat-square)
+![](https://komarev.com/ghpvc/?username=hoangminhtran94&style=flat-square)
 
