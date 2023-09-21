@@ -2,9 +2,6 @@
 <p align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangminhtran94&layout=donut&langs_count=10&theme=transparent"/>
 </p>
-<!-- <p align="center"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hoangminhtran94&show_icons=true&rank_icon=github&hide=stars&theme=transparent"/>
-</p> -->
 <p align="center"> 
   <img align="center" src="https://streak-stats.demolab.com/?user=hoangminhtran94&ring=4F1FEB&currStreakLabel=4F1FEB&theme=transparent"/>
 </p>
