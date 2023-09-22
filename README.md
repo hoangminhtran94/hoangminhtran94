@@ -5,9 +5,7 @@
 <p align="center"> 
   <img align="center" src="https://streak-stats.demolab.com/?user=hoangminhtran94&ring=4F1FEB&currStreakLabel=4F1FEB&theme=transparent"/>
 </p>
-
 ## My Skills
-
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,php,laravel,express,firebase,figma,cs,java,html,css,docker,dotnet,graphql,mongodb,mysql,nestjs,netlify,nextjs,nodejs,postgres,prisma,remix,sqlite,svelte,tailwind,angular,kubernetes,spring,django,py,deno,flutter,go)](https://skillicons.dev)
 <br>
 <picture>
